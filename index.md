@@ -1,4 +1,5 @@
-# 歡迎 來到 GitHub Pages By Mr.wu
+# 歡迎 來到 GitHub Pages 
+By Mr.wu
 ## 大家好 這是Now網頁
 
 你可以使用他[editor on GitHub](https://github.com/Mrwu0409/BEN/edit/gh-pages/index.md) 來編製you的網頁
