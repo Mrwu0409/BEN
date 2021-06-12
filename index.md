@@ -16,7 +16,7 @@ By Mr.wu
 
 大德國中
 
-- YOU can us css and html
+- You can us css and html
 - [Google](http://www.google.com.tw/)
 - [`網頁`](https://mrwu0409.github.io/wu-wen-chung/)
 
