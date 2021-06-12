@@ -1,26 +1,22 @@
-## 歡迎 來到 GitHub Pages
-大家好 這是我得now網頁
+# 歡迎 來到 GitHub Pages By Mr.wu
+## 大家好 這是Now網頁
 
-You can use the [editor on GitHub](https://github.com/Mrwu0409/BEN/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+你可以使用他[editor on GitHub](https://github.com/Mrwu0409/BEN/edit/gh-pages/index.md) 來編製you的網頁
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### 標題
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+如何怎麼選擇
 
-```markdown
-Syntax highlighted code block
+## 個人簡介
+陳平國小 
 
-# Header 1
-## Header 2
-### Header 3
+大德國中
 
-- Bulleted
-- List
+- YOU CAN US CSS AND HTML
+- [Google](http://www.google.com.tw/)
+- `List`
 
-1. Numbered BEN
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
