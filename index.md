@@ -1,5 +1,5 @@
-## Welcome to GitHub Pages
-大家好
+## 歡迎 來到 GitHub Pages
+大家好 這是我得now網頁
 
 You can use the [editor on GitHub](https://github.com/Mrwu0409/BEN/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
