@@ -16,9 +16,9 @@ By Mr.wu
 
 大德國中
 
-- YOU CAN US CSS AND HTML
+- YOU can us css and html
 - [Google](http://www.google.com.tw/)
-- `List`
+- [`網頁`](https://mrwu0409.github.io/wu-wen-chung/)
 
 
 **Bold** and _Italic_ and `Code` text
